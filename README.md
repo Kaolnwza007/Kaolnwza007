@@ -1,8 +1,8 @@
 # KaoProfile
 
 <!-- Banner / Header -->
-<h1 align="center">Hello, I'm The1975 👋</h1>
-<p align="center">I love to discuss coding and cyber security. Feel free to reach out!</p>
+<h1 align="center">Hello 👋</h1>
+<p align="center">Welcome to my overview <3 </p>
 
 <p align="center">
   <a href="https://discord.gg/yourlink">
