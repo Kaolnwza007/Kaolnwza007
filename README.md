@@ -5,6 +5,7 @@
 <p align="center">Welcome to my overview <3 </p>
 
 <p align="center">
+  <img href="" >
   <a href="https://discord.gg/yourlink">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
@@ -22,8 +23,10 @@
 ---
 
 ### 💻 Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,vue,python,c,cpp,java,git,github,typescript,mysql,nginx,vscode" height="48" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 ---
