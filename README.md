@@ -25,7 +25,7 @@
 ### 💻 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,docker,node.js,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,docker,nodejs,arduino" />
   </a>
 </p>
 
@@ -55,7 +55,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The1975z&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The1975z&layout=compact&theme=radical" height="150" />
 </p>
 
