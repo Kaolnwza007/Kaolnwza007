@@ -25,7 +25,7 @@
 ### 💻 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,docker" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,docker,node.js,arduino" />
   </a>
 </p>
 
