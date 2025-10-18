@@ -15,7 +15,7 @@
 
 ### 🧠 Socials
 <p>
-  <a href="https://discord.gg/yourlink">
+  <a href="https://discord.gg/ant_kao.">
     <img src="https://skillicons.dev/icons?i=discord" height="48" />
   </a>
 </p>
