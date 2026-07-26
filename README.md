@@ -1,8 +1,8 @@
 # KaoProfile
 
 <!-- Banner / Header -->
-<h1 align="center">Hello 👋</h1>
-<p align="center">Welcome to my overview <3 </p>
+<h1 align="center">สวัสดีคั้บบบบ ! ! ! 👋</h1>
+<p align="center">เวลคั่มสู่หน้า introduction <3 </p>
 
 <p align="center">
   <img href="" >
